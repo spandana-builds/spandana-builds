@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 **Information Science & Engineering Student** | 📚 5th Semester  <br>💻 Passionate about tech, nature, and using code to solve real-world problems.<br><br> ⚡Fun Fact<br>Gardening is my peaceful escape from the screen — until I start thinking, “Can I automate this with IoT?” 🌿🤖
 
 
