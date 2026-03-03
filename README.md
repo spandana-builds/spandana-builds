@@ -1,6 +1,6 @@
 # About Me:
 
-### 👋 Hi there, I’m Spandana! (@spandana-builds)<br><br>🎓 **Information Science & Engineering Student** | 📚 5th Semester  <br>💻 Passionate about tech, nature, and using code to solve real-world problems.<br><br> ⚡Fun Fact<br>Gardening is my peaceful escape from the screen — until I start thinking, “Can I automate this with IoT?” 🌿🤖<br><br>
+### 👋 Hi there, I’m Spandana! (@spandana-builds)<br><br>🎓 **Information Science & Engineering Student** | 📚 6th Semester  <br>💻 Passionate about tech, nature, and using code to solve real-world problems.<br><br> ⚡Fun Fact<br>Gardening is my peaceful escape from the screen — until I start thinking, “Can I automate this with IoT?” 🌿🤖<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spandana-h-a-25a6a4308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spandana2400@gmail.com) 
