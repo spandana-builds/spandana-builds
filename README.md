@@ -8,7 +8,7 @@
 ```python
 class Spandana:
     def __init__(self):
-        self.role        = "ISE Student • Builder • co-Founder"
+        self.role        = "ISE Student • Builder • Co-founder"
         self.focus       = ["AI Agents", "Machine Learning", "Full Stack", "Products"]
         self.cofounder_of  = "Hasiru Haadi 🌱"
         self.mission     = "Solve real problems with technology"
