@@ -1,24 +1,56 @@
-# About Me:
+<div align="center">
 
-### 👋 Hi there, I’m Spandana! (@spandana-builds)<br><br>🎓 **Information Science & Engineering Student** | 📚 6th Semester  <br>💻 Passionate about tech, nature, and using code to solve real-world problems.<br><br> ⚡Fun Fact<br>Gardening is my peaceful escape from the screen — until I start thinking, “Can I automate this with IoT?” 🌿🤖<br><br>
+# Spandana H A
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spandana-h-a-25a6a4308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spandana2400@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+AI-powered+Solutions;Full+Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spandana-builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=spandana-builds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spandana-builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Information Science Student | AI/ML | Full Stack**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![](https://img.shields.io/badge/Open_to_Internships_2026-10B981?style=flat-square)]()
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spandana-builds&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+### What I Build
 
-this is my git repo readme , give me lavable propt to enhance it
+**Hasiru Haadi** — Plant & sustainability initiative connecting communities with nature
+
+**AI Farming Advisor** — ML-powered crop recommendations *(in progress)*
+
+**RepoInsight** — AI agent that analyzes codebases *(building)*
+
+**Plant Story Archive** — Digitizing plant knowledge with AI
+
+---
+
+### Tech Stack
+
+```
+Python | TypeScript | React | Node.js | TensorFlow | LangChain
+PostgreSQL | Supabase | Docker | Git
+```
+
+---
+
+### 2026 Focus
+
+AI Agents | Machine Learning | System Design | DSA
+
+---
+
+### Beyond Code
+
+Gardening | Sustainability | Writing | Nature
+
+Founder of [Hasiru Haadi](https://github.com/spandana-builds) — tech meets environmentalism
+
+---
+
+<div align="center">
+
+[GitHub](https://github.com/spandana-builds) · [LinkedIn](https://linkedin.com/in/spandana-h-a)
+
+<img src="https://github-readme-stats.vercel.app/api?username=spandana-builds&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=FFFFFF&hide=issues,prs" alt="Stats" height="140"/>
+
+</div>
