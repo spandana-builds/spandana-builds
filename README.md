@@ -2,7 +2,7 @@
 ## 👋 Who I Am — in 10 seconds
 
 > I'm **Spandana** — an **Information Science & Engineering student (6th semester)** who builds, not just studies.
-> I turn ideas into shipped products at the intersection of **AI/ML, Agentic AI, and Full Stack Development**, and I founded **🌱 Hasiru Haadi**, a plant & sustainability initiative.
+> I turn ideas into shipped products at the intersection of **AI/ML, Agentic AI, and Full Stack Development**, and I cofounded **🌱 Hasiru Haadi**, a plant & sustainability initiative.
 > Driven by one thing: **solving real-world problems with technology.**
 
 ```python
@@ -10,7 +10,7 @@ class Spandana:
     def __init__(self):
         self.role        = "ISE Student • Builder • Founder"
         self.focus       = ["AI Agents", "Machine Learning", "Full Stack", "Products"]
-        self.founder_of  = "Hasiru Haadi 🌱"
+        self.cofounder_of  = "Hasiru Haadi 🌱"
         self.mission     = "Solve real problems with technology"
         self.currently   = "Building AI tools that actually ship"
 
