@@ -1,24 +1,36 @@
-
 ## 👋 Who I Am — in 10 seconds
 
-> I'm **Spandana** — an **Information Science & Engineering student (7th semester)** who builds, not just studies.
-> I turn ideas into shipped products at the intersection of **AI/ML, Agentic AI, and Full Stack Development**, and I co-founded **🌱 Hasiru Haadi**, a plant & sustainability initiative.
-> Driven by one thing: **solving real-world problems with technology.**
+> I'm **Spandana** — an **Information Science & Engineering student at NIE Mysuru** who enjoys building products, not just learning about them.
+> I build **AI-powered** and **full-stack web applications**, with a strong foundation in **DSA, OOP, DBMS, and REST APIs**.
+> Driven by one thing: **using technology to solve real-world problems.**
 
 ```python
 class Spandana:
     def __init__(self):
-        self.role        = "ISE Student • Builder • Co-founder"
-        self.focus       = ["AI Agents", "Machine Learning", "Full Stack", "Products"]
-        self.cofounder_of  = "Hasiru Haadi 🌱"
-        self.mission     = "Solve real problems with technology"
-        self.currently   = "Building AI tools that actually ship"
+        self.role = "ISE Student • Full Stack Developer"
+        self.focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "Problem Solving"
+        ]
+        self.tech = [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Java",
+            "Python"
+        ]
+        self.currently = "Building AI-powered applications"
 
     def beyond_code(self):
-        return ["🌿 Gardening", "🌍 Sustainability", "✍️ Writing", "💡 Creative problem solving"]
+        return [
+            "🌿 Gardening",
+            "🌍 Sustainability",
+            "✍️ Writing",
+            "💡 Learning"
+        ]
 ```
 
 ---
-
-
-
